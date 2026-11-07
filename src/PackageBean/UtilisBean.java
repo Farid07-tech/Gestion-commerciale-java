@@ -9,9 +9,6 @@ public class UtilisBean {
 		Bean b1 =new Bean();
 		b1.setNom("farid");
 		System.out.println(b1.getNom());
-		 
-		b1.setPrenom("houfel");
-		System.out.println(b1.getPrenom());
 	}
 
 }
